@@ -2,6 +2,7 @@
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
+## DATE: 10-09-2026
 
 ## Algorithm
 1. Start the program.
