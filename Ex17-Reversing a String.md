@@ -2,6 +2,9 @@
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
 
+## DATE: 10-09-2026
+
+
 ## Algorithm
 1. Start the program.
 2. Read the input string from the user.
